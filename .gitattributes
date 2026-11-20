@@ -1,0 +1,5 @@
+# Que GitHub cuente el codigo propio (C#) y no los shaders de TextMesh Pro
+"Assets/TextMesh Pro/**" linguist-vendored
+*.unity linguist-generated
+*.prefab linguist-generated
+*.asset linguist-generated
